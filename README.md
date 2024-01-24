@@ -15,7 +15,7 @@
 ### 4. Where will you get information about this language when it's time to start programming in it? At the end of your assignment, provide a list of the names of books, website URLs, or any other resources that relate to your language in particular.
 
 ##### The Apple developer site and Swift site both have very useful resources for learning to use Swift.
-###### (https://developer.apple.com/swift/)
+###### (https://developer.apple.com/documentation/swift)
 ###### (https://www.swift.org/getting-started/)
 
 ## Getting Started (questions):
